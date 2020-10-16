@@ -1,0 +1,37 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Firearms",
+				"abbreviation": "FRA",
+				"full": "zerotovarius",
+				"authors": [
+					"zerotovarius"
+				],
+				"version": "1.0",
+				"url": "https://raw.githubusercontent.com/zerotovarius/5eTools-Homebrew/main",
+				"targetSchema": "1.1.0"
+			}
+		],
+		"dateAdded": 1537874753,
+		"dateLastModified": 1537874753
+	},
+	"item": [
+    {
+        "name": "Pistola",
+        "type": "R",
+        "rarity": "commom",
+	"value": 400,
+	"weight": 1.5,
+	"weaponCategory": "Simple",
+	"dmg1": "1d6",
+	"dmgType": "P",
+	"range": "30/90",
+	"reload": 10
+    }
+]
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Stat
